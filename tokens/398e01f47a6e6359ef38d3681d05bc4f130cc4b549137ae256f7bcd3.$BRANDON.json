@@ -1,0 +1,10 @@
+{
+    "policyId": "398e01f47a6e6359ef38d3681d05bc4f130cc4b549137ae256f7bcd3",
+    "name": "$BRANDON",
+    "symbol": "$BRANDON",
+    "website": "https://en.wikipedia.org/wiki/Joe_Biden",
+    "description": "An Ode to the best President Ever! Support Brandon Today!",
+    "totalSupply": 25000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000],
+    "decimalPlaces": 0
+}
